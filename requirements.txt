@@ -1,0 +1,6 @@
+Installs required to run our project below:
+jupyter
+pandas
+numpy
+matplotlib
+scikit-learn
